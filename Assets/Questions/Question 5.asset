@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: Who is the best teacher?
+  answers:
+  - Mr. Martinsqueef
+  - Mr. Martini
+  - Mr. Martinez
+  - Martini
+  correctAnswerIndex: 2
